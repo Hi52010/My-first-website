@@ -1,0 +1,28 @@
+.name{
+    font-weight: bold;
+    text-decoration: underline;
+    position: relative;
+    top: 0px;
+    text-align: center;
+    font-size: 30px;
+    }
+    .aboutName{
+    text-align: center;
+    position: relative;
+    top: -25px;
+    font-family: Arial;
+    }
+    .uselessButtonDiv {
+    text-align: center;
+    }
+    .notUselessButtonDiv{
+    text-align: center;
+    }
+    .numberOfClicks{
+    text-align: center;
+    }
+    .theGreatResetButtonDiv{
+    text-align: center;
+    position: relative;
+    top: 20px
+    }
